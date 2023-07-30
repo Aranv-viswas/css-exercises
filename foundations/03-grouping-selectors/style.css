@@ -1,0 +1,12 @@
+.n1,
+.n2{
+  font-size: 28px;
+  font-family: Helvetica, 'Times New Roman' ,ssans-serif;
+}
+.n1{
+  background: black;
+  color: rgb(255, 255, 255);
+}
+.n2{
+  background: yellow;
+}
